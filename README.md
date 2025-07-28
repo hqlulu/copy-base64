@@ -20,6 +20,15 @@ Usage
 1. Right-click on any image on a webpage
 2. Select "Copy base64" from the context menu
 3. The image will be converted to base64 format and copied to your clipboard
+4. A notification will appear showing the status (success or error)
+
+Features
+--------
+- Converts images to Base64 format
+- Copies Base64 data to clipboard
+- Visual notifications for success and error states
+- Handles cross-origin images
+- Fallback copy method for compatibility
 
 Note: This extension has been updated to use Manifest V3 for Chrome compatibility.
 
